@@ -1,0 +1,23 @@
+{
+  "publisher": "pisa-kun",
+  "icon": "./images/climax.ico",
+  "name": "hkg-climax",
+  "displayName": "hkg-climax",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pisa-kun",
+        "uiTheme": "vs",
+        "path": "./themes/climax-color-theme.json"
+      }
+    ]
+  }
+}
